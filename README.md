@@ -34,12 +34,8 @@ please contact me at [cmyagema@syr.edu](mailto:cmyagema@syr.edu).
 License
 -------
 
-These documents are free: you can redistribute them and/or modify
-them under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-These documents are distributed in the hope that they will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
+These documents are released as open source documents. Permission is granted to copy, 
+distribute and/or modify these documents under the terms of the GNU Free Documentation 
+License, Version 1.3 or any later version published by the Free Software Foundation. A copy 
+of the license can be found at 
+[http://www.gnu.org/licenses/fdl.html](http://www.gnu.org/licenses/fdl.html).
