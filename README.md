@@ -29,7 +29,7 @@ Contacting the Author
 ---------------------
 
 If you have any questions, comments, or concerns regarding the contents of this repository, 
-please contact me at cmyagema@syr.edu .
+please contact me at [cmyagema@syr.edu](mailto:cmyagema@syr.edu).
 
 License
 -------
