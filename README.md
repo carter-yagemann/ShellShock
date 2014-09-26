@@ -1,5 +1,5 @@
-ShellShock
-==========
+ShellShock (Bash Zero Day Vulnerability)
+========================================
 
 About This Repository
 ---------------------
@@ -8,6 +8,14 @@ This repository contains useful documents which I have written to help educate t
 cybersecurity community on the "ShellShock" bash vulnerability. These documents are 
 designed to help facilitate learning, including on how to identify possibly vulnerable 
 services and how to remediate such vulnerabilities.
+
+What is ShellShock?
+-------------------
+
+In short, ShellShock is a very serious zero day vulnerability which has been found to 
+reside in all versions of bash from 4.3 and earlier. This vulnerability causes bash 
+to process extraneous data after a function declaration which can include code which 
+will then be executed. ShellShock is a code injection vulnerability.
 
 Getting Started
 ---------------
