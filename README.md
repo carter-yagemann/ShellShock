@@ -37,7 +37,9 @@ section.
 Contributing Authors
 --------------------
 
-Carter Yagemann (Creator, Admin) - [cmyagema@syr.edu](mailto:cmyagema@syr.edu).
+Carter Yagemann (Creator, Admin) - [cmyagema@syr.edu](mailto:cmyagema@syr.edu)
+
+Amit Ahlawat (Contributor) - [aahlawat@syr.edu](mailto:aahlawat@syr.edu)
 
 License
 -------
