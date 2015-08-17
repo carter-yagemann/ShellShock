@@ -49,10 +49,3 @@ distribute and/or modify these documents under the terms of the GNU Free Documen
 License, Version 1.3 or any later version published by the Free Software Foundation. A copy 
 of the license can be found at 
 [http://www.gnu.org/licenses/fdl.html](http://www.gnu.org/licenses/fdl.html).
-
-Donations
----------
-
-This documentation took considerable effort to research, compile, and prepare for public 
-use. If you would like to support future projects of this kind, consider making a small 
-donation: [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=A7TNEZJYA975N&lc=US&item_name=Carter%20Yagemann&item_number=1&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted)
